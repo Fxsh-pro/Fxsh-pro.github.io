@@ -1,0 +1,13 @@
+body {
+    background: url(imp/t.jpg);
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    color: rgb(179, 18, 219);
+
+}  
+.head1 {
+    font: 900;
+}
