@@ -1,0 +1,31 @@
+body {
+    background: url(imp/t.jpg);
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+    color: rgb(179, 18, 219);
+    border-collapse: collapse;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 1px;
+}
+
+.head1 {
+    font-size: x-large;
+}
+
+p {
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+
+tr,
+td {
+
+    border: 2px solid black;
+
+
+}
